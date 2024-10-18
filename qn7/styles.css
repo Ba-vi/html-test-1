@@ -1,0 +1,8 @@
+table{
+    border: 2px;
+    border-style: double;
+    border-color: blue;
+}
+.mytable{
+    align-self: center;
+}

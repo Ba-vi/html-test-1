@@ -1,0 +1,10 @@
+.input{
+    width: 300px;
+}
+.myform{
+    margin: 10px;
+}
+.submit{
+    background-color: green;
+    color: white;
+}
